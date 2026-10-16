@@ -1,85 +1,21 @@
-<div align="center">
-  <h1>👋 Hi, I’m Aayush Trada</h1>
-  <h3><i>Information Technology Undergraduate | AI/ML & Full-Stack Systems Developer</i></h3>
-</div>
+# 💫 About Me:
+Motivated Information Technology undergraduate with hands-on experience in AI engineering, full-stack development, and scalable<br>software systems. Skilled in building LLM-powered applications, RAG pipelines, and cloud-deployed web platforms using technologies<br>such as React, Next.js, Python, LangChain, PostgreSQL, and Docker. Experienced in leading technical and creative initiatives<br>through college organizations, with strong problem-solving, project management, and collaboration abilities.<br>
 
-<p align="center">
-  B.Tech IT Student at DJSCE, Mumbai (CGPA: 8.6/10)[cite: 2] | Researcher in ML/DL | SDE & QA Intern at Dvara Solutions[cite: 2]
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayush-trada-95282031a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushtrada33@gmail.com) 
 
-### 🎓 Education & Academic Standing
-* **Bachelor of Technology in Information Technology** — Dwarkadas J. Sanghvi College of Engineering (2023–2027)[cite: 2]
-  * **CGPA:** 8.6 / 10[cite: 2]
-  * **Entrance Distinction:** Admitted via Maharashtra Common Entrance Test (MHT-CET) with a **98.07 percentile**[cite: 2].
-* **Research Publication:** *Bot Detection for Twitter Accounts using ML and DL Models*, presented at Research Symposium 2026 (MIT State)[cite: 2].
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=codeitwithaayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=codeitwithaayush&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=codeitwithaayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 💼 Professional Experience & Leadership
-* **SDE & QA Intern | Dvara Solutions** *(June 2026 – Present)*[cite: 2]
-  * Working on structured lending and securitization enterprise fintech workflows (PTC, DA, Co-Lending)[cite: 2].
-  * Performing UAT, validating software defects, and automating financial reconciliation workflows using Microsoft Excel[cite: 2].
-* **Co-Secretary | Google Developer Group, DJSCE** *(Oct 2025 – May 2026)*[cite: 1, 2]
-  * Coordinated flagship ideathons and hackathons for 200+ participants, managing stage flow, logistics, and committee decisions[cite: 2].
-* **Social Media Head | DJS NSS** *(June 2025 – Present)*[cite: 2]
-  * Completed 240+ hours of community service; led digital campaigns and content strategies resulting in 100k+ views[cite: 2].
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=codeitwithaayush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Key Projects & Systems
-* **Financial Document QnA System** — Engineered an agentic RAG pipeline using LangGraph (4-node state machine), FAISS, BM25 sparse retrieval, and cross-encoder reranking over SEC 10-K filings; evaluated via RAGAS metrics and deployed via Streamlit[cite: 2].
-* **Natural Language App Compiler** — Built a multi-stage AI compiler translating plain text prompts into executable application configs (UI, API, DB, Auth) using LLaMA 3.3 70B and Next.js, featuring an automated cross-layer validation & auto-repair engine[cite: 2].
-* **Projectra** — Developed a full-stack project workflow management platform with end-to-end task tracking, invoicing, and scalable backend architecture using Prisma ORM, PostgreSQL, and Docker[cite: 2].
-
----
-
-### 🛠️ Technical Arsenal
-* **Languages:** Python, Java, C, C++, JavaScript, SQL[cite: 2]
-* **AI, ML & Data:** PyTorch, TensorFlow, Keras, scikit-learn, LangChain, LangGraph, LangSmith, RAG, NLP, Pandas, NumPy[cite: 2]
-* **Web & Backend:** React, Next.js, Node.js, FastAPI, Streamlit, TailwindCSS, Prisma, Docker[cite: 2]
-* **Cloud & Tools:** AWS, Google Cloud Platform, Git, GitHub, Linux, Vercel, Figma[cite: 2]
-
----
-
-### 📈 Problem Solving & Competitive Coding
-<p align="center">
-  <a href="https://leetcode.com/u/aayyuuushhhh/">
-    <img src="https://img.shields.io/badge/LeetCode-aayyuuushhhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/aayyuuushhhh?theme=dark&bg=121212&font=Segoe%20UI&ext=activity" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aayushtrada33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,react,nextjs,nodejs,fastapi,tailwind,postgres,docker,git,linux,aws,gcp,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats & Trophies
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-bg=true&margin-h=15&margin-w=15" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
