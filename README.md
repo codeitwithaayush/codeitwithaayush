@@ -3,11 +3,13 @@ Motivated Information Technology undergraduate with hands-on experience in AI en
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-trada-95282031a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushtrada33@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/aayyuuushhhh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-trada-95282031a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushtrada33@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-aayyuuushhhh-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/aayyuuushhhh/) 
 
 # 🧠 LeetCode Progress:
 <p align="left">
-  <img src="https://leetcode-stats-api.herokuapp.com/aayyuuushhhh?theme=dark&bg=121212&font=Segoe%20UI&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/aayyuuushhhh/">
+    <img src="https://img.shields.io/badge/Check%20Out%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
