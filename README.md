@@ -20,9 +20,9 @@ Motivated Information Technology undergraduate with hands-on experience in AI en
 ![](https://streak-stats.demolab.com/?user=codeitwithaayush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codeitwithaayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### 💡 Perspective
+> You should always be rooting for the people you know. Not only because you may need their support tomorrow, but also because it feels good to celebrate something.  
+> Celebration can rescue your day—even if it is someone else's victory. Envy will ruin your day—even if you're actually winning.
 ---
 [![](https://komarev.com/ghpvc/?username=codeitwithaayush&icon=0&color=0)](https://visitcount.itsvg.in)
 
