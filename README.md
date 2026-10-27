@@ -12,11 +12,6 @@ Motivated Information Technology undergraduate with hands-on experience in AI en
   </a>
 </p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/codeitwithaayush/codeitwithaayush/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/codeitwithaayush/codeitwithaayush/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 # 💻 Tech Stack:
