@@ -22,14 +22,8 @@ Motivated Information Technology undergraduate with hands-on experience in AI en
 ![](https://streak-stats.demolab.com/?user=codeitwithaayush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codeitwithaayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🐍 Contribution Graph & Activity
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeitwithaayush/codeitwithaayush/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeitwithaayush/codeitwithaayush/output/github-contribution-grid-snake.svg">
-    <img alt="Aayush's Contribution Snake Animation" src="https://raw.githubusercontent.com/codeitwithaayush/codeitwithaayush/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+
+
 
 ### 💡 Perspective
 > You should always be rooting for the people you know. Not only because you may need their support tomorrow, but also because it feels good to celebrate something.  
