@@ -1,22 +1,5 @@
-💫 About Me
-
-<div align="center">
-
-<span style="color:#BD93F9">AI ENGINEER</span> • <span style="color:#00E5FF">FULL-STACK DEVELOPER</span> • <span style="color:#FF79C6">TECH ENTHUSIAST</span>
-
-</div>
-
-Motivated Information Technology undergraduate with hands-on experience in AI Engineering, Full-Stack Development, and Scalable Software Systems.
-
-💜 Building LLM-powered applications, RAG pipelines, and AI-driven solutions.
-⚡ Developing scalable web platforms using React, Next.js, Python, and PostgreSQL.
-🚀 Experienced with LangChain, Docker, and Cloud Deployment.
-🌐 Passionate about creating innovative software and solving real-world problems.
-🤝 Experienced in leading technical and creative initiatives through college organizations.
-🧠 Strong in problem-solving, project management, teamwork, and collaboration.
-<span style="color:#BD93F9">⚡ Tech Interests</span>
-
-Artificial Intelligence LLMs RAG Full-Stack Development Cloud Computing Scalable Systems
+# 💫 About Me:
+Motivated Information Technology undergraduate with hands-on experience in AI engineering, full-stack development, and scalable<br>software systems. Skilled in building LLM-powered applications, RAG pipelines, and cloud-deployed web platforms using technologies<br>such as React, Next.js, Python, LangChain, PostgreSQL, and Docker. Experienced in leading technical and creative initiatives<br>through college organizations, with strong problem-solving, project management, and collaboration abilities.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-trada-95282031a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushtrada33@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-aayyuuushhhh-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/aayyuuushhhh/) 
